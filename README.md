@@ -15,3 +15,11 @@ This project calculates the average return of the S&P 500 index using historical
 ---
 
 CSV provided by: https://www.macrotrends.net/2526/sp-500-historical-annual-returns
+
+---
+
+## Usage
+
+- Download the CSV
+- Rename it as "data.csv"
+- Run
